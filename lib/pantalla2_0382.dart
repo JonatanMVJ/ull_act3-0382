@@ -7,7 +7,7 @@ class Pantalla2_0382 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pantalla2  mazuca0382"),
+        title: const Text("Pantalla2  mazuca_0382"),
       ),
       body: Center(
         child: Column(
@@ -15,7 +15,7 @@ class Pantalla2_0382 extends StatelessWidget {
           children: [
             ElevatedButton(
                 onPressed: () {}, //si presiona boton
-                child: const Text("Pantalla"))
+                child: const Text("Pantalla_0382"))
           ],
         ),
       ),

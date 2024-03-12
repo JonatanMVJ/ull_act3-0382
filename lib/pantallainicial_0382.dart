@@ -7,7 +7,7 @@ class Pantallainicial_0382 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pantalla Inicial mazuca"),
+        title: const Text("Pantalla Inicial mazuca_0382"),
         backgroundColor: Colors.red[900], // Cambio de color a rojo vino
       ),
       body: Center(
@@ -18,13 +18,13 @@ class Pantallainicial_0382 extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, "/Pantalla1_0382");
               },
-              child: const Text("Mover a Pantalla 1"),
+              child: const Text("Mover a Pantalla1_0382"),
             ),
             ElevatedButton(
               onPressed: () {
                 Navigator.pushNamed(context, "/Pantalla2_0382");
               },
-              child: const Text("Mover a Pantalla 2"),
+              child: const Text("Mover a Pantalla2_0382"),
             )
           ],
         ),
