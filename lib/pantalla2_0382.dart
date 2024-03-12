@@ -8,6 +8,7 @@ class Pantalla2_0382 extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Pantalla2  mazuca_0382"),
+        backgroundColor: Colors.red[900], // Cambio de color a rojo vino
       ),
       body: Center(
         child: Column(

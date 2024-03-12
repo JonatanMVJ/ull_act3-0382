@@ -7,18 +7,10 @@ class Pantalla1_0382 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pantalla 1 mazuca 0382 "),
+        title: Text("Card Colores mazuca 0382 "),
         backgroundColor: Colors.red[900], // Cambio de color a rojo vino
       ),
-      body: Center(
-        child: Column(
-          children: [
-            Container(
-              child: const Text("mazuca Ejemplo 0382"),
-            )
-          ],
-        ),
-      ),
+      body: Center(),
     );
   }
 }

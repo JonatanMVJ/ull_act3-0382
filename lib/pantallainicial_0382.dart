@@ -7,7 +7,7 @@ class Pantallainicial_0382 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pantalla Inicial mazuca_0382"),
+        title: const Text("Card Container mazuca_0382"),
         backgroundColor: Colors.red[900], // Cambio de color a rojo vino
       ),
       body: Center(
@@ -32,5 +32,3 @@ class Pantallainicial_0382 extends StatelessWidget {
     );
   } //fin del widget
 } //fin de la clase Pantallainicial_0382
-//Jonatan
-//ma
