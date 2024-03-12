@@ -23,3 +23,4 @@ class Pantalla2_0382 extends StatelessWidget {
   } //fin de Widget
 } //fin de clase Pantalla2_0382
 //Jonatan
+//ma
