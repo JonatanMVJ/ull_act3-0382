@@ -1,4 +1,4 @@
-# p13-Router-0382
+# Ull_act2-0382
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
@@ -22,12 +22,12 @@ samples, guidance on mobile development, and a full API reference.
 - Jonatan Mazuca: 
 -a.21308051280382@cbtis128.edu.mx
 - Links de referencia:
--https://github.com/flutter-teacher/card-widget/blob/main/card_test.dart
--https://docs.google.com/document/d/1jTloUy06IgWM7lw4rxjJRm-U0HS4YiTs9KUiXsZLa6U/edit
+-https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7
 
 ## Imagenes
--![image](https://github.com/JonatanMVJ/p14-RutasDise_0382/assets/143743615/c9f30a66-c7e7-49f0-b43a-b25c27ada72a)
--![image](https://github.com/JonatanMVJ/p14-RutasDise_0382/assets/143743615/49415052-0799-4b4f-85fd-2df1ed4cbf22)
--![image](https://github.com/JonatanMVJ/p14-RutasDise_0382/assets/143743615/b756af6e-ff27-45ae-b36d-4a8d18ad6393)
+-![image](https://github.com/JonatanMVJ/ull_act3-0382/assets/143743615/a5a9284d-9fd2-45f9-a0e9-f8496e35b2bc)
+![image](https://github.com/JonatanMVJ/ull_act3-0382/assets/143743615/370ee456-e424-4c39-9ce9-3a1d6ef1b6d4)
+
+
 
 
