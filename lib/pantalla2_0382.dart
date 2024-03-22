@@ -7,21 +7,56 @@ class Pantalla2_0382 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Pantalla2  mazuca_0382"),
-        backgroundColor: Colors.red[900], // Cambio de color a rojo vino
+        title: const Text("Pantalla2 mazuca_0382"),
+        backgroundColor: Color(0xFF6E48AA), // Color púrpura oscuro
       ),
-      body: Center(
-        child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            ElevatedButton(
-                onPressed: () {}, //si presiona boton
-                child: const Text("Pantalla_0382"))
-          ],
-        ),
+      body: Column(
+        mainAxisAlignment: MainAxisAlignment.center,
+        children: [
+          Text(
+            "Jonatan Mazuca Valenzuela",
+            style: TextStyle(
+              fontSize: 24,
+              color: Color(0xFF6E48AA), // Color púrpura oscuro
+            ),
+          ),
+          Container(
+            height: 130,
+            width: double.infinity,
+            decoration: BoxDecoration(
+              color: Color(0xFFCDB4DB), // Color púrpura claro
+              borderRadius: BorderRadius.only(
+                bottomRight: Radius.circular(50),
+                bottomLeft: Radius.circular(50),
+              ),
+              boxShadow: [
+                BoxShadow(
+                  color: Color(0xAA6E48AA), // Color púrpura oscuro
+                  offset: Offset(9, 9),
+                  blurRadius: 6,
+                ),
+              ],
+            ),
+            alignment: Alignment.center,
+            child: Text(
+              'I am a header',
+              style: TextStyle(
+                fontSize: 38,
+                color: Color(0xFF6E48AA), // Color púrpura oscuro
+              ),
+            ),
+          ),
+          Container(
+            child: Text(
+              "Encabezado_0382",
+              style: TextStyle(
+                fontSize: 20,
+                color: Color(0xFF6E48AA), // Color púrpura oscuro
+              ),
+            ),
+          ),
+        ],
       ),
     );
   } //fin de Widget
 } //fin de clase Pantalla2_0382
-//Jonatan
-//ma
